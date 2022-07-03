@@ -1,6 +1,5 @@
 # SrikanthQAProjectsSummary
 Projects Summary
-Projects:
 Project: PE-thePoint/Concepts/DocuCare (Wolters Kluwer), USA      Duration: 83 Months
 Client:    Wolters Kluwer                                                                               Role: Senior Automation Test Lead                           
 Environment: C#, MVC.Net, LINQ¸ SharePoint 2010, Azure, AWS, SQL Server DB, Visual Studio 2015, N-unit, MS Test
