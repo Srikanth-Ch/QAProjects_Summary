@@ -1,5 +1,25 @@
 # SrikanthQAProjectsSummary
 Projects Summary
+Project: Experian Business Customer (EBC), Europe                           Duration: 10 Months
+Client:   Experian India Services                                                               Role: Test Lead Automation                           
+Environment: C#, MVC.Net Core , Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, MS Test
+Summary: Enables the business to identify their customers from financial protection by verify the credit record checks using customer facing applications (EBC/EBA/NIKE products)
+	Have a built a team of highly technical people from scratch and managed to deliver the product with high quality and within the stipulated time.
+	Streamlining the SDLC process within the Development and QE     teams.
+	Implemented agile principles within the team to deliver the high- quality product in iterations (Sprints).
+	Have taken care on test development and test suite leverage as part of automation
+	Coordination with product owner for roadmaps with respect to the releases and feature implementations.
+	Product manager to steer the team towards the organizational goals.
+	Definition and monitoring of quality goals from product perspective.
+	Documentation of test activities and preparation of test closure report.
+	Technical management and control of the QE team as well as the development.
+	Development and definition of suitable test methods and tools.
+	Strategizing the QE activities from the broader perspective to implement the same by other QE & Dev teams within the organization.
+	Organizing and managing the QE activities.
+	Planning, co-ordination, and control over various QE activities.
+	Rich project, product, and QE management experience.
+	Team management, resource management, Client interaction, Effort estimation, Turn-key projects
+
 Project: PE-thePoint/Concepts/DocuCare (Wolters Kluwer), USA      Duration: 83 Months
 Client:    Wolters Kluwer                                                                               Role: Senior Automation Test Lead                           
 Environment: C#, MVC.Net, LINQ¸ SharePoint 2010, Azure, AWS, SQL Server DB, Visual Studio 2015, N-unit, MS Test
