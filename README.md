@@ -1,27 +1,29 @@
 Projects:
-Project: Experian Business Customer (EBC), Bottle Necks, Europe              Duration: 29 Months
-Client:   Experian India Services                                                                                Role: Automation Test Lead 
-Environment: C#, MVC.Net Core , Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, AWS Cloud, Queues ,Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark
+Project: Experian Business Customer (EBC),Alerts & Triggers , Europe              Duration: 29 Months
+Client:   Experian India Services                                                                                Role: Sr.Automation Test Lead 
+Environment: C#, MVC.Net Core , Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, AWS Cloud, Queues ,Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark, Playwright with C#
 
 Summary: This product enables the business to identify their customers from financial protection by verify the credit report, employment/education verification checks using EBC web customer facing applications (EBC/EBA/NIKE products)
 
 Responsibilities:
 
-	Understand the new enhancements for existing products and condut the feasiblity anaysis on test automation devlopment as well as manual efforts
-	Actively involving in sprint planning, retrospective, sprint review, backlog grooming, poker plan meetings
-	Thoroughly investigate on show stoppers defect analysis which is pertaining to business level priorities
-	Extremely focusing on exit criteria and resourcefulness on sprint goals such as testing deliverables with in targeted deadlines
-	Organizing and Coordinating with in the team as well as with product owners for roadmaps with respect to the releases and feature implementations
-	Have discussions with dev team based on the new PBI’s, bug fix verification, environment issues   
-	Built a team of skillful team to deliver the product with high quality within the stipulated time
-	Have taken care on test development and test suite leverage as part of automation
-	Implement the QA team weekly, monthly status, test execution reports graphical charts
-	Definition and monitoring of quality goals from product perspective
-
+	Ensuring QA team clear on refined PBI’s prior to kick-off the project development
+	Implement test cases automatable analysis right after test cases are baselined
+	Tweak the automatable test cases and isolate them into the two types of smoke, regression test suites
+	Guide the comprehensive guidelines for prepare the pseudocode algorithm documents
+	Ensuring the automation tools are placed in order to unblock the automation test development journey
+	Proficiently working on trouble shooting exceptions while leverage the test automation scripts. Working with DevOps team to integrate the automated test suites with CI/CD pipelines
+	Working on investigate , advise and make the new features to the robust automation framework
+	Monitor and manage automation projects ensuring adherence to quality, reusability, timelines, increase automation test  execution cycles to keep the minimize manual efforts
+	Implementing the test automation development, test run results, defect reports, ROI on automation leverage within the allocated timelines, budget
+	Focus on optimization efforts to Improving the performance and efficiency of automation test scripts to deliver maximum value over the time
+	Extensively working on design and implementing the sandbox collections part of API automation. Worked on queues , AWS dynamo DB, Cloud Watch System Parameters components
+	Collaborate with AI and data teams to integrate automation into AI-driven workflows, enabling smarter automation decisions
+	Lead a diverse team of automation engineers, analysts, and specialists, fostering a culture of innovation, collaboration, and high performance
 
 
 Project: PE-thePoint/Concepts/DocuCare (Wolters Kluwer), USA          Duration: 89 Months
-Client:    Wolters Kluwer                                                                                          Role: Senior Automation Test Lead
+Client:    Wolters Kluwer                                                                                          Role: Automation Test Lead
 Environment: C#, MVC.Net, LINQ¸ SharePoint 2010, Azure, AWS, SQL Server DB, Visual Studio 2015, N-unit, MS Test
 
 Summary: Multiple key features developed for learning resources like student, instructor health care professionals. Majorly this site implemented with various kind of products. First it focus on student and instructor users to make bridge gap between their educational courses. Quiz yourself to make your study more efficient. Users can access the digital version of health related text books. Adaptive learning &Simulation enables high for health care professionals, student practices. Incorporated patient simulation web scenarios for ensure the users practice levels. Supportive resources help to scaffold learning both inside and outside of the classroom. Students have access for wide variety of electronic resources anytime, anywhere eBooks, interactive flash cards, case studies, journal articles, quizzes, and more
