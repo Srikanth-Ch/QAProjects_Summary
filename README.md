@@ -1,12 +1,53 @@
-Projects:
-Project: Experian Business Customer (EBC),Alerts & Triggers , Europe              Duration: 29 Months
-Client:   Experian India Services                                                                                Role: Sr.Automation Test Lead 
-Environment: C#, MVC.Net Core , Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, AWS Cloud, Queues ,Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark, Playwright with C#
+Projects Summary:
+Project: ALerts & Triggers ,Europe              Duration: 1 Month
+Client:  Experian                               Role: Sr.Automation Test Lead 
+Environment: C#, MVC.Net Core,AWS Cloud Watch, Message Queues, Postman,BRUNO,AWS DynamoDb,JIRA, Zephyr,AWS Lambda,MicroServices
 
-Summary: This product enables the business to identify their customers from financial protection by verify the credit report, employment/education verification checks using EBC web customer facing applications (EBC/EBA/NIKE products)
+Summary: The BusinessIQ Legacy product is one of the key revenue-generating offerings within the Business Information (BI) unit. It serves a wide range of users—from individual professionals to large enterprises—by providing tools and insights to enhance credit reporting and make informed financial decisions. The platform delivers tailored financial advice and analytics based on users’ current financial profiles, helping organizations manage risk, assess creditworthiness, and support long-term financial planning.
 
 Responsibilities:
+	Ensuring QA team clear on refined PBI’s prior to kick-off the project development
+	Implement test cases automatable analysis right after test cases are baselined
+	Tweak the automatable test cases and isolate them into the two types of smoke, regression test suites
+	Guide the comprehensive guidelines for prepare the pseudocode algorithm documents
+	Ensuring the AI automation tools are placed in order to unblock the automation test development journey
+	Proficiently working on trouble shooting exceptions while leverage the test automation scripts. Working with DevOps team to integrate the automated test suites with CI/CD pipelines
+	Working on investigate , advise and make the new features to the robust automation framework
+	Monitor and manage automation projects ensuring adherence to quality, reusability, timelines, increase automation test  execution cycles to keep the minimize manual efforts
+	Implementing the test automation development, test run results, defect reports, ROI on automation leverage within the allocated timelines, budget
+	Focus on optimization efforts to Improving the performance and efficiency of automation test scripts to deliver maximum value over the time
+	Extensively working on design and implementing the sandbox collections part of API automation. Worked on queues , AWS dynamo DB, Cloud Watch System Parameters components
+	Collaborate with Gen AI tools and data teams to integrate automation into AI-driven workflows, enabling smarter automation decisions
+	Lead a diverse team of automation engineers, analysts, and specialists, fostering a culture of innovation, collaboration, and high performance 
 
+Project: ALerts & Triggers ,Europe              Duration: 14 Months
+Client:  Experian                               Role: Sr.Automation Test Lead 
+Environment: C#, MVC.Net Core,AWS Cloud Watch, Message Queues, Postman,BRUNO,AWS DynamoDb,JIRA, Zephyr,AWS Lambda,MicroServices
+
+Summary: Actively contributed to the Alerts & Triggers project at NIKE, which focused on modernizing and enhancing backend systems. The primary objective was to migrate legacy mainframe services to a more scalable and flexible architecture using message queues, AWS Lambda functions, RESTful APIs, and microservices. This transformation was aimed at improving system responsiveness, scalability, and maintainability, aligning with NIKE’s broader cloud modernization goals.
+
+Responsibilities:
+	Ensuring QA team clear on refined PBI’s prior to kick-off the project development
+	Implement test cases automatable analysis right after test cases are baselined
+	Tweak the automatable test cases and isolate them into the two types of smoke, regression test suites
+	Guide the comprehensive guidelines for prepare the pseudocode algorithm documents
+	Ensuring the automation tools are placed in order to unblock the automation test development journey
+	Proficiently working on trouble shooting exceptions while leverage the test automation scripts. Working with DevOps team to integrate the automated test suites with CI/CD pipelines
+	Working on investigate , advise and make the new features to the robust automation framework
+	Monitor and manage automation projects ensuring adherence to quality, reusability, timelines, increase automation test  execution cycles to keep the minimize manual efforts
+	Implementing the test automation development, test run results, defect reports, ROI on automation leverage within the allocated timelines, budget
+	Focus on optimization efforts to Improving the performance and efficiency of automation test scripts to deliver maximum value over the time
+	Extensively working on design and implementing the sandbox collections part of API automation. Worked on queues , AWS dynamo DB, Cloud Watch System Parameters components
+	Collaborate with AI and data teams to integrate automation into AI-driven workflows, enabling smarter automation decisions
+	Lead a diverse team of automation engineers, analysts, and specialists, fostering a culture of innovation, collaboration, and high performance
+
+Project: Experian Business Customer (EBC),Europe              Duration: 29 Months
+Client:  Experian                                             Role: Sr.Automation Test Lead 
+Environment: C#, MVC.Net Core , Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, AWS Cloud, Queues ,Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark
+
+Summary: This Experian business customer product empowers organizations to better understand and support their customers’ financial goals by providing access to verified individual credit reports. It also assists employers with comprehensive employment and education background verification checks. These services are delivered through EBC web-based, customer-facing applications (EBC, EBA, NIKE), enabling businesses to make more informed decisions, streamline onboarding processes, and ensure compliance with regulatory standards.
+
+Responsibilities:
 	Ensuring QA team clear on refined PBI’s prior to kick-off the project development
 	Implement test cases automatable analysis right after test cases are baselined
 	Tweak the automatable test cases and isolate them into the two types of smoke, regression test suites
@@ -23,7 +64,7 @@ Responsibilities:
 
 
 Project: PE-thePoint/Concepts/DocuCare (Wolters Kluwer), USA          Duration: 89 Months
-Client:    Wolters Kluwer                                                                                          Role: Automation Test Lead
+Client:  Wolters Kluwer                                               Role: Automation Test Lead
 Environment: C#, MVC.Net, LINQ¸ SharePoint 2010, Azure, AWS, SQL Server DB, Visual Studio 2015, N-unit, MS Test
 
 Summary: Multiple key features developed for learning resources like student, instructor health care professionals. Majorly this site implemented with various kind of products. First it focus on student and instructor users to make bridge gap between their educational courses. Quiz yourself to make your study more efficient. Users can access the digital version of health related text books. Adaptive learning &Simulation enables high for health care professionals, student practices. Incorporated patient simulation web scenarios for ensure the users practice levels. Supportive resources help to scaffold learning both inside and outside of the classroom. Students have access for wide variety of electronic resources anytime, anywhere eBooks, interactive flash cards, case studies, journal articles, quizzes, and more
