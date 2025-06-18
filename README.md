@@ -1,7 +1,7 @@
 Projects Summary:
-Project: ALerts & Triggers ,Europe              Duration: 1 Month
+Project: BusinessIQ Legacy ,Europe              Duration: 1 Month
 Client:  Experian                               Role: Sr.Automation Test Lead 
-Environment: C#, MVC.Net Core,AWS Cloud Watch, Message Queues, Postman,BRUNO,AWS DynamoDb,JIRA, Zephyr,AWS Lambda,MicroServices
+Environment: .Net,Postman,JIRA,Zephyr,Playwright Python, BDD Specflow, Pytest, Bitbucket,Git
 
 Summary: The BusinessIQ Legacy product is one of the key revenue-generating offerings within the Business Information (BI) unit. It serves a wide range of users—from individual professionals to large enterprises—by providing tools and insights to enhance credit reporting and make informed financial decisions. The platform delivers tailored financial advice and analytics based on users’ current financial profiles, helping organizations manage risk, assess creditworthiness, and support long-term financial planning.
 
@@ -43,7 +43,7 @@ Responsibilities:
 
 Project: Experian Business Customer (EBC),Europe              Duration: 29 Months
 Client:  Experian                                             Role: Sr.Automation Test Lead 
-Environment: C#, MVC.Net Core , Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, AWS Cloud, Queues ,Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark
+Environment: C#, MVC.Net Core,Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, AWS Cloud, Queues ,Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark
 
 Summary: This Experian business customer product empowers organizations to better understand and support their customers’ financial goals by providing access to verified individual credit reports. It also assists employers with comprehensive employment and education background verification checks. These services are delivered through EBC web-based, customer-facing applications (EBC, EBA, NIKE), enabling businesses to make more informed decisions, streamline onboarding processes, and ensure compliance with regulatory standards.
 
