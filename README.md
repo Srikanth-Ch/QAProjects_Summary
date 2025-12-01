@@ -1,9 +1,9 @@
-Projects Summary:
+**Projects Summary:**
 
 Experian India Services:
 Automation Lead | May 2025- Present | UK&I
 Project- BIQLegacy
-Environment/Tools: Microsoft .Net C#, AWS, Java Script, Postman, Apigee, Docker, Kubernetes, Playwright, Python BDD, Git Hub Co-Pilot, Playwright MCP, SQL, BitBucket, Git, Python
+Environment/Tools: Java, Spring, AWS, Java Script, Postman, Docker, Kubernetes, Playwright, Python BDD, Git Hub Co-Pilot, Playwright MCP, SQL, BitBucket, Git, Python, MongoDB
 
 Summary: The BusinessIQ Legacy product is one of the key revenue-generating offerings within the Business Information (BI) unit. It serves a wide range of users—from individual professionals to large enterprises—by providing tools and insights to enhance credit reporting and make informed financial decisions. The platform delivers tailored financial advice and analytics based on users’ current financial profiles, helping organizations manage risk, assess creditworthiness, and support long-term financial planning.
 
@@ -44,9 +44,10 @@ Responsibilities:
 	Collaborate with AI and data teams to integrate automation into AI-driven workflows, enabling smarter automation decisions
 	Lead a diverse team of automation engineers, analysts, and specialists, fostering a culture of innovation, collaboration, and high performance
 
+Experian India Services
 Project: Experian Business Customer (EBC)
 Automation Lead | Oct 2022 - Apr 2023 | UK&I
-Environment: C#, MVC.Net Core,Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, AWS Cloud, Queues ,Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark
+Environment: C#, MVC.Net Core,Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit,Reqnroll, AWS Cloud , Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark
 
 Summary: This Experian business customer product empowers organizations to better understand and support their customers’ financial goals by providing access to verified individual credit reports. It also assists employers with comprehensive employment and education background verification checks. These services are delivered through EBC web-based, customer-facing applications (EBC, EBA, NIKE), enabling businesses to make more informed decisions, streamline onboarding processes, and ensure compliance with regulatory standards.
 
