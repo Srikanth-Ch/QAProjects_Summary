@@ -1,7 +1,7 @@
 Projects Summary:
-Project: BusinessIQ Legacy ,Europe              Duration: 1 Month
-Client:  Experian                               Role: Sr.Automation Test Lead 
-Environment: .Net,Postman,JIRA,Zephyr,Playwright Python, BDD Specflow, Pytest, Bitbucket,Git
+Experian India Services:
+Automation Lead | Oct 2022- Present | UK&I
+Environment/Tools: Microsoft .Net C#, AWS, Java Script, Postman, Apigee, Docker, Kubernetes, Playwright, Python BDD, Git Hub Co-Pilot, Playwright MCP, SQL, BitBucket, Git, Python
 
 Summary: The BusinessIQ Legacy product is one of the key revenue-generating offerings within the Business Information (BI) unit. It serves a wide range of users—from individual professionals to large enterprises—by providing tools and insights to enhance credit reporting and make informed financial decisions. The platform delivers tailored financial advice and analytics based on users’ current financial profiles, helping organizations manage risk, assess creditworthiness, and support long-term financial planning.
 
@@ -20,8 +20,9 @@ Responsibilities:
 	Collaborate with Gen AI tools and data teams to integrate automation into AI-driven workflows, enabling smarter automation decisions
 	Lead a diverse team of automation engineers, analysts, and specialists, fostering a culture of innovation, collaboration, and high performance 
 
-Project: ALerts & Triggers ,Europe              Duration: 14 Months
-Client:  Experian                               Role: Sr.Automation Test Lead 
+Experian India Services
+Automation Lead | May 2025 - Present | UK&I
+Project: Bottlenecks
 Environment: C#, MVC.Net Core,AWS Cloud Watch, Message Queues, Postman,BRUNO,AWS DynamoDb,JIRA, Zephyr,AWS Lambda,MicroServices
 
 Summary: Actively contributed to the Alerts & Triggers project at NIKE, which focused on modernizing and enhancing backend systems. The primary objective was to migrate legacy mainframe services to a more scalable and flexible architecture using message queues, AWS Lambda functions, RESTful APIs, and microservices. This transformation was aimed at improving system responsiveness, scalability, and maintainability, aligning with NIKE’s broader cloud modernization goals.
@@ -41,8 +42,8 @@ Responsibilities:
 	Collaborate with AI and data teams to integrate automation into AI-driven workflows, enabling smarter automation decisions
 	Lead a diverse team of automation engineers, analysts, and specialists, fostering a culture of innovation, collaboration, and high performance
 
-Project: Experian Business Customer (EBC),Europe              Duration: 29 Months
-Client:  Experian                                             Role: Sr.Automation Test Lead 
+Project: Experian Business Customer (EBC)
+Automation Lead | May 2023- May 2024 | UK&I
 Environment: C#, MVC.Net Core,Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, AWS Cloud, Queues ,Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark
 
 Summary: This Experian business customer product empowers organizations to better understand and support their customers’ financial goals by providing access to verified individual credit reports. It also assists employers with comprehensive employment and education background verification checks. These services are delivered through EBC web-based, customer-facing applications (EBC, EBA, NIKE), enabling businesses to make more informed decisions, streamline onboarding processes, and ensure compliance with regulatory standards.
@@ -62,9 +63,10 @@ Responsibilities:
 	Collaborate with AI and data teams to integrate automation into AI-driven workflows, enabling smarter automation decisions
 	Lead a diverse team of automation engineers, analysts, and specialists, fostering a culture of innovation, collaboration, and high performance
 
-
-Project: PE-thePoint/Concepts/DocuCare (Wolters Kluwer), USA          Duration: 89 Months
-Client:  Wolters Kluwer                                               Role: Automation Test Lead
+Adroitent ITES Global Services
+Test Lead|Sep 2015 – Oct 2022 
+Project: PE-thePoint/Concepts/DocuCare (Wolters Kluwer), USA          
+Client:  Wolters Kluwer                                            
 Environment: C#, MVC.Net, LINQ¸ SharePoint 2010, Azure, AWS, SQL Server DB, Visual Studio 2015, N-unit, MS Test
 
 Summary: Multiple key features developed for learning resources like student, instructor health care professionals. Majorly this site implemented with various kind of products. First it focus on student and instructor users to make bridge gap between their educational courses. Quiz yourself to make your study more efficient. Users can access the digital version of health related text books. Adaptive learning &Simulation enables high for health care professionals, student practices. Incorporated patient simulation web scenarios for ensure the users practice levels. Supportive resources help to scaffold learning both inside and outside of the classroom. Students have access for wide variety of electronic resources anytime, anywhere eBooks, interactive flash cards, case studies, journal articles, quizzes, and more
@@ -80,51 +82,72 @@ Responsibilities:
 	Preparing check list for performing the Smoke Test
 	The defect-tracking tool, TFS is used to track, update and report defects
 
-Project:  OVIDMD (Wolters Kluwer), USA                                                             Duration: 6 Months
-Client:    Wolters Kluwer                                                                                              Role: Senior QA Analyst
-
+Adroitent ITES Global Services
+Senior Test Analyst|June 2014 – Jan 2015
+Project:OVIDMD                                                    
+Client:Wolters Kluwer,USA
 Environment: ASP.Net, C#, LINQ¸ SharePoint 2010, Omniture Site Catalyst, JQuery, SQL Server 2012, Visual Studio 2010, fiddler
 
 Summary: OvidMD the first clinical tool from Ovid designed especially for physicians and other clinicians. It provides quick answers to clinical questions based on relevant full-text content from Ovid. OvidMD is the only solution that allows physicians to link out to synoptic information from Up-to-date and the latest medical research on OvidSP through the same easy-to-use interface
-Project:  OVID SP (Wolters Kluwer), USA                                  Duration: 10 Months
-Client:    Wolters Kluwer                                                                  Role: Senior Automation Test Engineer                             
+
+Adroitent ITES Global Services
+Senior Test Analyst|Jan 2015 – Sep 2015
+Project:OVID SP                                                          
+Client:Wolters Kluwer,USA
 Environment: .Net(C #), C, C++, Solr, Couch base, JDK 1.7
 
 Summary:  OvidSP is a search platform provides access to databases, books and journals offered by the Medical Library at Health First. OvidSP product integrates new changes in database day to day and provides access to online bibliographic databases, academic journals, and chiefly in the area of health sciences. OvidSP will allow you to view the full-text content of selected books and journals. The primary medical and nursing literature databases, MEDLINE and CINAHL are available through Ovid.
-Project: Engage Point Financials                                                                                         Duration: 4 Months
-Client: Engage Point, USA                                                                                                       Role: Senior Analyst                              
+
+Adroietnt ITES Global Services
+Senior Test Analyst|Feb 2014 – Apr 2014
+Project: Engage Point Financials                                                                                         
+Client: Engage Point, USA
 Environment: Windows, Java, DBeaver, Jenkins, Git Hub
 
 Summary:  Financials is a multi-program financial transaction and payment processing system that allows you to perform bookkeeping at program, agency, stakeholder, citizen, and household levels. The product also lets you collect and disburse payments. Engage Point Financials uses a dual-accounting system that was designed to meet the unique challenges states face in a multi-program environment.
-Project: TUI (Touristic Union International), UK                                                Duration: 2Months
-Client: Touristic Union International                                                                       Role: Technical Analyst                              
+
+Sonata Software Limited
+Techno Functional Consultant|Nov 2013- Jan 2013 
+Project: TUI (Touristic Union International), UK
 Environment: Windows, Java, Testopia, Toad, Win SEP, Bugzilla & TRACS, Selenium Web driver, TestNG, Maven
 
 Summary:  TUIUK major traveling agency in UK .TUIUK has got Both B to B (Business to Business) and B to C (Business to Customer) applications. Thomson, first choice, Falcon and cruise are B to C applications; Wish (Web in shops) is B to B application.
 Web in Shops (WISH) is a project to deliver the iscape platform to the Thomson & First choice retail estates, call centers and 3rd party travel agents. In effect the transfer of those search and book activities which would have been conducted on T.O.P to the iscape platform. Web in Shops does require additional functionality from the iscape platform compared to the public web offering such as agent sign-on, late searches, etc. Agent can sell the all type of web packages (Accommodation only, Thomson, First Choice, Falcon, Portland packages & Cruise.
 WISH uses the inventories like TRACS, Power search, and EPIC databases to get the holiday availability & complete details and stored in VISION database.
-Project: Microsoft Dynamic CRM                                                                             Duration: 5 Months
-Client: Microsoft, USA                                                                                                   Role:        SDET
+
+Sonata Software Limited
+Techno Functional Consultant|Jun 2013- Nov 2013 
+Project: Microsoft Dynamic CRM
+Client: Microsoft, USA
 Environment: C#.NET, ASP.NET 4.0, SQL Server 2008, JQuery, Microsoft product studio, Image builder 1.8.8
 
 Summary: Microsoft Dynamics CRM is a Customer relationship management software package developed by Microsoft. Out of the box, the product focuses mainly on Sales, Marketing, and Service (help desk) sectors, but Microsoft has been marketing Dynamics CRM as an XRM platform and has been encouraging partners to use its proprietary (.Net based) framework to customize it to meet many different demands.MS-CRM can help reduce costs and increase profitability by organizing and automating business processes that nurture customer satisfaction and loyalty in the sales, marketing, and customer service fields.
-Project: Person Health Record (PHR)                                                             Duration: 6 Months
-Client: Green Clinical Systems, USA                                                                  Role: Software QA Analyst
-Environment: Front End:-Adobe Flex4/Air 2 user Interface with MATE/PARSLEY framework 
-Back End:-Java 6, spring 3, JPA 2, Hibernate 3.5, Blaze DS4, Active MQ, TOM CAT/JBOSS, MySQL/MS
+
+Jasper Industries (J.L Software Solutions) 
+Quality Assurance Engineer | Jan 2013-May 2013
+Project: Person Health Record (PHR)           
+Client: Green Clinical Systems, USA 
+Environment: Front End:-Adobe Flex4/Air 2 user Interface with MATE/PARSLEY framework ; Back End:-Java 6, spring 3, JPA 2, Hibernate 3.5, Blaze DS4, Active MQ, TOM CAT/JBOSS, MySQL/MS
 
 Summary:  Person Health Record (PHR) System which includes a Person Demographics, All Problems (Diagnosis Record), Vital signs, Blood pressure charts, Weight charts, Laboratory Data, Laboratory Results, Laboratory Charts, Person Education. Cholesterol Charts. PHR streamline the complete health record of person. PHR is designed to reach beyond the health organization that originally collect the data and are built to share information with other Providers when he visits to doctor. Person can access the His health information at any time by Using PHR product. PHR will be soon replace Medications, Demographics, Provider name. . Etc. Paper based Prescriptions
 
-Project: Electronic Health Record (EHR) Certified product                   Duration: 11 Months
-Client: Green Clinical Systems, USA                                                                Role: Software QA Analyst
+Jasper Industries (J.L Software Solutions) 
+Quality Assurance Engineer | Dec 2011-Jan 2013
+Project: Electronic Health Record (EHR) Certified product
+Client: Green Clinical Systems, USA
 Environment: Front End:-Adobe Flex4/Air 2 user Interface with MATE/PARSLEY framework 
 Back End:-Java 6, spring 3, JPA 2, Hibernate 3.5, Blaze DS4, Active MQ, TOM CAT/JBOSS, MySQL
 
 Summary:  Electronic Medical Records (EHR1.0) software for the Physicians and Hospitals is an ONC Meaningful Use Complete EHR Certified product .EHR 1.0 is achieved sure scripts certification for e- Prescription (including Electronic Prescription, Prescription benefit, Medication History, Prescription Routing). This EHR System replaces the tradition method of maintaining paper records for patient health information with electronically maintained health records. This EHR application is an interactive interface with a complete intuitive UI powered by the latest in RIA technology. Physicians and doctors will be able to record/transmit health related information, order labs, prescribe medication etc. over devices like iPad, iPhone and any android based devices thus eliminating task of maintaining paper records
-Project: Health Care Portal                                                                                    Duration: 12 Months
-Client: Liberty Health Care (EHR)                                                                       Role: Software Engineer
+
+Dolphane Info Solutions
+Software Engineer| Jan 2008-Dec 2008
+Project: Health Care Portal
+Client: Liberty Health Care (EHR), USA
 Environment: Java, MS SQL DB, SVN, JIRA, Win-XP 
+
 Summary:  Health Care Portal system is one of the most important areas where effective solution can be developed to optimize the delay caused by current methods. Health Care Portal is a free, easy way to know Health Information, Hospital Information, Appointment Scheduling, and Online Consultation. In the current scenario, the main problems include checking the availability of doctor, providing consultancy, maintaining in-patient records (EHR) etc. When the patient is travelling and requires certain emergency medical services, at that point of time the patient may not have all his medical records. Hence the doctor at the nearby health center may not have a clear picture of his condition
+
 Responsibilities: 
 	Understanding the business requirements and design test cases to test the complete functionality of the application
 	Designing manual test cases as per the acceptance criteria furnished in user stories  
@@ -134,13 +157,15 @@ Responsibilities:
 	Analyzed Test Results and identifying the defect 
 	Encounter the defects and log it through defect tracking tool
 	Send the DSR to client as well as to QA lead
-Achievements:
+
+Key Achievements:
 	Spot Award Collaborate to Innovative -2024 for Test Automation Drive -Experian
 	Spot Award Value Each Other for -2024 for Konfir Product Delivery  - Experian
 	Special thanks STAR VIP-2017 card as part of test automation efforts- Wolters Kluwer
 	Recognized as a Collaboration with  Onsite team -2016 for test automation - Adroitent
 	USA B1 Valid visa holder
+
 Certifications:
-	Scrum Alliance Certified Agile Leadership in Teams
-	“AWS Technical Essentials Certified" from Amazon Web Services
-	"WorkSafe Delta" certified from Rainmaker
+	Scrum Alliance Certified Agile Leadership in Teams May 2023
+	“AWS Technical Essentials Certified" from Amazon Web Services June 2023
+	"WorkSafe Delta" certified from Rainmaker 2025
