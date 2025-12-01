@@ -1,6 +1,8 @@
 Projects Summary:
+
 Experian India Services:
-Automation Lead | Oct 2022- Present | UK&I
+Automation Lead | May 2025- Present | UK&I
+Project- BIQLegacy
 Environment/Tools: Microsoft .Net C#, AWS, Java Script, Postman, Apigee, Docker, Kubernetes, Playwright, Python BDD, Git Hub Co-Pilot, Playwright MCP, SQL, BitBucket, Git, Python
 
 Summary: The BusinessIQ Legacy product is one of the key revenue-generating offerings within the Business Information (BI) unit. It serves a wide range of users—from individual professionals to large enterprises—by providing tools and insights to enhance credit reporting and make informed financial decisions. The platform delivers tailored financial advice and analytics based on users’ current financial profiles, helping organizations manage risk, assess creditworthiness, and support long-term financial planning.
@@ -21,7 +23,7 @@ Responsibilities:
 	Lead a diverse team of automation engineers, analysts, and specialists, fostering a culture of innovation, collaboration, and high performance 
 
 Experian India Services
-Automation Lead | May 2025 - Present | UK&I
+Automation Lead | May 2023 - April 2025 | UK&I
 Project: Bottlenecks
 Environment: C#, MVC.Net Core,AWS Cloud Watch, Message Queues, Postman,BRUNO,AWS DynamoDb,JIRA, Zephyr,AWS Lambda,MicroServices
 
@@ -43,7 +45,7 @@ Responsibilities:
 	Lead a diverse team of automation engineers, analysts, and specialists, fostering a culture of innovation, collaboration, and high performance
 
 Project: Experian Business Customer (EBC)
-Automation Lead | May 2023- May 2024 | UK&I
+Automation Lead | Oct 2022 - Apr 2023 | UK&I
 Environment: C#, MVC.Net Core,Azure DevOps, SQL Server DB, Visual Studio 2022, Specflow N-unit, AWS Cloud, Queues ,Postman, BRUNO, Postmark, Azure Data Studio, JIRA, Postmark
 
 Summary: This Experian business customer product empowers organizations to better understand and support their customers’ financial goals by providing access to verified individual credit reports. It also assists employers with comprehensive employment and education background verification checks. These services are delivered through EBC web-based, customer-facing applications (EBC, EBA, NIKE), enabling businesses to make more informed decisions, streamline onboarding processes, and ensure compliance with regulatory standards.
@@ -102,7 +104,7 @@ Adroietnt ITES Global Services
 Senior Test Analyst|Feb 2014 – Apr 2014
 Project: Engage Point Financials                                                                                         
 Client: Engage Point, USA
-Environment: Windows, Java, DBeaver, Jenkins, Git Hub
+Environment: Windows, Java, DBeaver, Jenkins, Git Hub, SOAP UI, JIRA, 
 
 Summary:  Financials is a multi-program financial transaction and payment processing system that allows you to perform bookkeeping at program, agency, stakeholder, citizen, and household levels. The product also lets you collect and disburse payments. Engage Point Financials uses a dual-accounting system that was designed to meet the unique challenges states face in a multi-program environment.
 
