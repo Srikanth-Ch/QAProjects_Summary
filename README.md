@@ -1,7 +1,7 @@
 **Projects Summary:**
 
 Experian India Services:
-Automation Lead | May 2025- Present | UK&I
+Automation Lead | May 2025- January'2026 | UK&I
 Project- BIQLegacy
 Environment/Tools: Java, Spring, AWS, Java Script, Postman, Docker, Kubernetes, Playwright, Python BDD, Git Hub Co-Pilot, Playwright MCP, SQL, BitBucket, Git, Python, MongoDB
 
@@ -169,6 +169,6 @@ Key Achievements:
 	USA B1 Valid visa holder
 
 Certifications:
+	Microsoft Certified Azure Fundamentals Feb 2026
 	Scrum Alliance Certified Agile Leadership in Teams May 2023
 	“AWS Technical Essentials Certified" from Amazon Web Services June 2023
-	"WorkSafe Delta" certified from Rainmaker 2025
