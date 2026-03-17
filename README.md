@@ -1,7 +1,6 @@
 **Projects Summary:**
-
 Experian India Services:
-Automation Lead | May 2025- January'2026 | UK&I
+Automation Lead | May 2025- Feruary'2026 | UK&I
 Project- BIQLegacy
 Environment/Tools: Java, Spring, AWS, Java Script, Postman, Docker, Kubernetes, Playwright, Python BDD, Git Hub Co-Pilot, Playwright MCP, SQL, BitBucket, Git, Python, MongoDB
 
@@ -144,7 +143,7 @@ Back End:-Java 6, spring 3, JPA 2, Hibernate 3.5, Blaze DS4, Active MQ, TOM CAT/
 Summary:  Electronic Medical Records (EHR1.0) software for the Physicians and Hospitals is an ONC Meaningful Use Complete EHR Certified product .EHR 1.0 is achieved sure scripts certification for e- Prescription (including Electronic Prescription, Prescription benefit, Medication History, Prescription Routing). This EHR System replaces the tradition method of maintaining paper records for patient health information with electronically maintained health records. This EHR application is an interactive interface with a complete intuitive UI powered by the latest in RIA technology. Physicians and doctors will be able to record/transmit health related information, order labs, prescribe medication etc. over devices like iPad, iPhone and any android based devices thus eliminating task of maintaining paper records
 
 Dolphane Info Solutions
-Software Engineer| Jan 2008-Dec 2008
+Software Engineer| Jan 2008-Dec 2009
 Project: Health Care Portal
 Client: Liberty Health Care (EHR), USA
 Environment: Java, MS SQL DB, SVN, JIRA, Win-XP 
@@ -161,14 +160,13 @@ Responsibilities:
 	Encounter the defects and log it through defect tracking tool
 	Send the DSR to client as well as to QA lead
 
-Key Achievements:
-	Spot Award Collaborate to Innovative -2024 for Test Automation Drive -Experian
-	Spot Award Value Each Other for -2024 for Konfir Product Delivery  - Experian
-	Special thanks STAR VIP-2017 card as part of test automation efforts- Wolters Kluwer
-	Recognized as a Collaboration with  Onsite team -2016 for test automation - Adroitent
-	USA B1 Valid visa holder
+Awards:
+•	Spot Award (2025) – “Collaborate to Win” for seamless QA delivery at Experian.
+•	Spot Award (2024) – Reduced API Test Suite Execution Time by 95% at Experian.
+•	STAR VIP Recognition (2017) – Automation framework adopted, Delivered at Wolters Kluwer
 
 Certifications:
-	Microsoft Certified Azure Fundamentals Feb 2026
-	Scrum Alliance Certified Agile Leadership in Teams May 2023
-	“AWS Technical Essentials Certified" from Amazon Web Services June 2023
+•	Certified “AWS Solutions Architect - Associate”,2026
+•	Certified “Microsoft-Azure Fundamentals”,2026
+•	Certified “Agile Leadership (Scrum Alliance)”,2023    
+•	Certified “AWS Cloud Technical Essentials”, 2023
